@@ -1,0 +1,22 @@
+
+Jane Smith
+Senior Software Engineer
+jane.smith@example.com  |  +1-555-0102  |  San Francisco, CA
+
+EXPERIENCE
+Senior Software Engineer, Acme Corp                       2020 - Present  (5 years)
+- Built microservices with Python, FastAPI, and PostgreSQL.
+- Deployed services to AWS using Docker and Kubernetes.
+- Mentored 4 junior engineers; ran weekly code reviews.
+
+Software Engineer, Initech                                2017 - 2020  (3 years)
+- Developed REST APIs using Django and Node.js.
+- Wrote React front-ends with Redux and TypeScript.
+
+EDUCATION
+B.S. Computer Science, MIT                                2013 - 2017
+
+SKILLS
+Python, JavaScript, TypeScript, React, Redux, FastAPI, Django,
+PostgreSQL, MongoDB, Docker, Kubernetes, AWS, Git, REST API,
+GraphQL, CI/CD, Machine Learning, TensorFlow, Pandas, NumPy.

@@ -1,0 +1,71 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - generic [ref=e5]:
+      - generic [ref=e6]: ⚡
+      - generic [ref=e7]: AI-Powered ATS
+    - navigation [ref=e8]:
+      - button "Dashboard" [ref=e9] [cursor=pointer]
+      - button "Jobs" [active] [ref=e10] [cursor=pointer]
+      - button "Candidates" [ref=e11] [cursor=pointer]
+      - button "Pipeline" [ref=e12] [cursor=pointer]
+      - button "Interviews" [ref=e13] [cursor=pointer]
+  - main [ref=e14]:
+    - generic [ref=e32]:
+      - generic [ref=e33]:
+        - heading "Jobs" [level=1] [ref=e34]
+        - button "+ New Job" [ref=e35] [cursor=pointer]
+      - generic [ref=e36]:
+        - generic [ref=e37]:
+          - generic [ref=e38]:
+            - generic [ref=e39]:
+              - heading "Data Scientist" [level=3] [ref=e40]
+              - generic [ref=e41]: Data · San Francisco · 13/07/2026
+            - generic [ref=e42]:
+              - button "+ Add Candidate" [ref=e43] [cursor=pointer]
+              - button "Pipeline" [ref=e44] [cursor=pointer]
+              - button "Delete" [ref=e45] [cursor=pointer]
+          - paragraph [ref=e46]: Build ML models in Python with TensorFlow and PyTorch. Deploy to AWS.
+          - generic [ref=e47]:
+            - generic [ref=e48]: python
+            - generic [ref=e49]: machine learning
+            - generic [ref=e50]: tensorflow
+            - generic [ref=e51]: pytorch
+            - generic [ref=e52]: pandas
+            - generic [ref=e53]: sql
+        - generic [ref=e54]:
+          - generic [ref=e55]:
+            - generic [ref=e56]:
+              - heading "Frontend Developer" [level=3] [ref=e57]
+              - generic [ref=e58]: Engineering · New York · 13/07/2026
+            - generic [ref=e59]:
+              - button "+ Add Candidate" [ref=e60] [cursor=pointer]
+              - button "Pipeline" [ref=e61] [cursor=pointer]
+              - button "Delete" [ref=e62] [cursor=pointer]
+          - paragraph [ref=e63]: Build modern web apps with React, TypeScript and Redux. Work closely with designers and the backend team.
+          - generic [ref=e64]:
+            - generic [ref=e65]: react
+            - generic [ref=e66]: typescript
+            - generic [ref=e67]: redux
+            - generic [ref=e68]: javascript
+            - generic [ref=e69]: css
+            - generic [ref=e70]: html
+            - generic [ref=e71]: git
+        - generic [ref=e72]:
+          - generic [ref=e73]:
+            - generic [ref=e74]:
+              - heading "Senior Backend Engineer" [level=3] [ref=e75]
+              - generic [ref=e76]: Engineering · Remote · 13/07/2026
+            - generic [ref=e77]:
+              - button "+ Add Candidate" [ref=e78] [cursor=pointer]
+              - button "Pipeline" [ref=e79] [cursor=pointer]
+              - button "Delete" [ref=e80] [cursor=pointer]
+          - paragraph [ref=e81]: We are hiring a Senior Backend Engineer to build scalable APIs using Python, FastAPI and PostgreSQL. You will deploy to AWS with Docker and Kubernetes, mentor juniors, and own services end to end.
+          - generic [ref=e82]:
+            - generic [ref=e83]: python
+            - generic [ref=e84]: fastapi
+            - generic [ref=e85]: postgresql
+            - generic [ref=e86]: docker
+            - generic [ref=e87]: kubernetes
+            - generic [ref=e88]: aws
+            - generic [ref=e89]: rest api
+            - generic [ref=e90]: git

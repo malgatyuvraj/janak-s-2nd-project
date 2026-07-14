@@ -1,0 +1,231 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - generic [ref=e5]:
+      - generic [ref=e6]: ⚡
+      - generic [ref=e7]: AI-Powered ATS
+    - navigation [ref=e8]:
+      - button "Dashboard" [ref=e9] [cursor=pointer]
+      - button "Jobs" [ref=e10] [cursor=pointer]
+      - button "Candidates" [ref=e11] [cursor=pointer]
+      - button "Pipeline" [ref=e12] [cursor=pointer]
+      - button "Interviews" [ref=e13] [cursor=pointer]
+  - main [ref=e14]:
+    - generic [ref=e91]:
+      - generic [ref=e92]:
+        - heading "Hiring Pipeline" [level=1] [ref=e93]
+        - combobox [ref=e94]:
+          - option "All Jobs" [selected]
+          - option "Data Scientist"
+          - option "Frontend Developer"
+          - option "Senior Backend Engineer"
+      - generic [ref=e95]:
+        - generic [ref=e96]:
+          - generic [ref=e97]:
+            - generic [ref=e98]: Applied
+            - generic [ref=e99]: "9"
+          - generic [ref=e100]:
+            - generic [ref=e101]:
+              - generic [ref=e102]:
+                - strong [ref=e103]: Jane Smith
+                - generic [ref=e104]: 34%
+              - generic [ref=e105]: Data Scientist
+              - generic [ref=e106]:
+                - generic [ref=e107]: python
+                - generic [ref=e108]: machine learning
+                - generic [ref=e109]: tensorflow
+              - combobox [ref=e110]:
+                - option "Applied" [selected]
+                - option "Screening"
+                - option "Interview"
+                - option "Offer"
+                - option "Hired"
+                - option "Rejected"
+            - generic [ref=e111]:
+              - generic [ref=e112]:
+                - strong [ref=e113]: Carlos Ruiz
+                - generic [ref=e114]: 26%
+              - generic [ref=e115]: Frontend Developer
+              - generic [ref=e116]:
+                - generic [ref=e117]: css
+                - generic [ref=e118]: html
+                - generic [ref=e119]: git
+              - combobox [ref=e120]:
+                - option "Applied" [selected]
+                - option "Screening"
+                - option "Interview"
+                - option "Offer"
+                - option "Hired"
+                - option "Rejected"
+            - generic [ref=e121]:
+              - generic [ref=e122]:
+                - strong [ref=e123]: Alex Park
+                - generic [ref=e124]: 26%
+              - generic [ref=e125]: Frontend Developer
+              - generic [ref=e126]:
+                - generic [ref=e127]: css
+                - generic [ref=e128]: html
+                - generic [ref=e129]: git
+              - combobox [ref=e130]:
+                - option "Applied" [selected]
+                - option "Screening"
+                - option "Interview"
+                - option "Offer"
+                - option "Hired"
+                - option "Rejected"
+            - generic [ref=e131]:
+              - generic [ref=e132]:
+                - strong [ref=e133]: Priya Patel
+                - generic [ref=e134]: 25%
+              - generic [ref=e135]: Senior Backend Engineer
+              - generic [ref=e136]:
+                - generic [ref=e137]: python
+                - generic [ref=e138]: postgresql
+                - generic [ref=e139]: aws
+              - combobox [ref=e140]:
+                - option "Applied" [selected]
+                - option "Screening"
+                - option "Interview"
+                - option "Offer"
+                - option "Hired"
+                - option "Rejected"
+            - generic [ref=e141]:
+              - generic [ref=e142]:
+                - strong [ref=e143]: Jane Smith
+                - generic [ref=e144]: 20%
+              - generic [ref=e145]: Frontend Developer
+              - generic [ref=e146]:
+                - generic [ref=e147]: react
+                - generic [ref=e148]: typescript
+              - combobox [ref=e149]:
+                - option "Applied" [selected]
+                - option "Screening"
+                - option "Interview"
+                - option "Offer"
+                - option "Hired"
+                - option "Rejected"
+            - generic [ref=e150]:
+              - generic [ref=e151]:
+                - strong [ref=e152]: Alex Park
+                - generic [ref=e153]: 16%
+              - generic [ref=e154]: Senior Backend Engineer
+              - generic [ref=e155]:
+                - generic [ref=e156]: python
+                - generic [ref=e157]: git
+              - combobox [ref=e158]:
+                - option "Applied" [selected]
+                - option "Screening"
+                - option "Interview"
+                - option "Offer"
+                - option "Hired"
+                - option "Rejected"
+            - generic [ref=e159]:
+              - generic [ref=e160]:
+                - strong [ref=e161]: Alex Park
+                - generic [ref=e162]: 12%
+              - generic [ref=e163]: Data Scientist
+              - generic [ref=e164]: python
+              - combobox [ref=e166]:
+                - option "Applied" [selected]
+                - option "Screening"
+                - option "Interview"
+                - option "Offer"
+                - option "Hired"
+                - option "Rejected"
+            - generic [ref=e167]:
+              - generic [ref=e168]:
+                - strong [ref=e169]: Carlos Ruiz
+                - generic [ref=e170]: 12%
+              - generic [ref=e171]: Data Scientist
+              - generic [ref=e172]: python
+              - combobox [ref=e174]:
+                - option "Applied" [selected]
+                - option "Screening"
+                - option "Interview"
+                - option "Offer"
+                - option "Hired"
+                - option "Rejected"
+            - generic [ref=e175]:
+              - generic [ref=e176]:
+                - strong [ref=e177]: Priya Patel
+                - generic [ref=e178]: 0%
+              - generic [ref=e179]: Frontend Developer
+              - combobox [ref=e180]:
+                - option "Applied" [selected]
+                - option "Screening"
+                - option "Interview"
+                - option "Offer"
+                - option "Hired"
+                - option "Rejected"
+        - generic [ref=e181]:
+          - generic [ref=e182]:
+            - generic [ref=e183]: Screening
+            - generic [ref=e184]: "1"
+          - generic [ref=e186]:
+            - generic [ref=e187]:
+              - strong [ref=e188]: Carlos Ruiz
+              - generic [ref=e189]: 16%
+            - generic [ref=e190]: Senior Backend Engineer
+            - generic [ref=e191]:
+              - generic [ref=e192]: python
+              - generic [ref=e193]: git
+            - combobox [ref=e194]:
+              - option "Applied"
+              - option "Screening" [selected]
+              - option "Interview"
+              - option "Offer"
+              - option "Hired"
+              - option "Rejected"
+        - generic [ref=e195]:
+          - generic [ref=e196]:
+            - generic [ref=e197]: Interview
+            - generic [ref=e198]: "2"
+          - generic [ref=e199]:
+            - generic [ref=e200]:
+              - generic [ref=e201]:
+                - strong [ref=e202]: Jane Smith
+                - generic [ref=e203]: 61%
+              - generic [ref=e204]: Senior Backend Engineer
+              - generic [ref=e205]:
+                - generic [ref=e206]: python
+                - generic [ref=e207]: fastapi
+                - generic [ref=e208]: postgresql
+                - generic [ref=e209]: "+4"
+              - combobox [active] [ref=e210]:
+                - option "Applied"
+                - option "Screening"
+                - option "Interview" [selected]
+                - option "Offer"
+                - option "Hired"
+                - option "Rejected"
+            - generic [ref=e211]:
+              - generic [ref=e212]:
+                - strong [ref=e213]: Priya Patel
+                - generic [ref=e214]: 54%
+              - generic [ref=e215]: Data Scientist
+              - generic [ref=e216]:
+                - generic [ref=e217]: python
+                - generic [ref=e218]: machine learning
+                - generic [ref=e219]: tensorflow
+                - generic [ref=e220]: "+2"
+              - combobox [ref=e221]:
+                - option "Applied"
+                - option "Screening"
+                - option "Interview" [selected]
+                - option "Offer"
+                - option "Hired"
+                - option "Rejected"
+        - generic [ref=e222]:
+          - generic [ref=e223]:
+            - generic [ref=e224]: Offer
+            - generic [ref=e225]: "0"
+          - generic [ref=e226]: —
+        - generic [ref=e228]:
+          - generic [ref=e229]:
+            - generic [ref=e230]: Hired
+            - generic [ref=e231]: "0"
+          - generic [ref=e232]: —
+        - generic [ref=e234]:
+          - generic [ref=e235]:
+            - generic [ref=e236]: Rejected
+            - generic [ref=e237]: "0"
+          - generic [ref=e238]: —

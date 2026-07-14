@@ -1,0 +1,18 @@
+Maria Garcia
+Senior Full-Stack Developer
+maria.garcia@example.com  |  +1-555-3030
+
+EXPERIENCE
+Senior Full-Stack Developer, TechCorp         2020 - Present (5 years)
+- Built REST APIs with Python, FastAPI, and PostgreSQL.
+- React + TypeScript front-end with Redux.
+- Deployed to AWS using Docker and Kubernetes.
+
+Full-Stack Developer, WebAgency                2017 - 2020 (3 years)
+- Node.js and Django services.
+- React, Vue.js front-ends.
+
+SKILLS
+Python, FastAPI, Django, Node.js, React, TypeScript, Redux,
+Vue.js, PostgreSQL, MySQL, Docker, Kubernetes, AWS, Git,
+REST API, GraphQL, CI/CD.

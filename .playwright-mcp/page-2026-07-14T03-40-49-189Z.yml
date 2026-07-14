@@ -1,0 +1,103 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - generic [ref=e5]:
+      - generic [ref=e6]: ⚡
+      - generic [ref=e7]: AI-Powered ATS
+    - navigation [ref=e8]:
+      - button "Dashboard" [ref=e9] [cursor=pointer]
+      - button "Jobs" [ref=e10] [cursor=pointer]
+      - button "Candidates" [ref=e11] [cursor=pointer]
+      - button "Pipeline" [ref=e12] [cursor=pointer]
+      - button "Interviews" [ref=e13] [cursor=pointer]
+  - main [ref=e14]:
+    - generic [ref=e340]:
+      - heading "Candidates" [level=1] [ref=e342]
+      - generic [ref=e343]:
+        - heading "Upload Resume" [level=3] [ref=e344]
+        - paragraph [ref=e345]: PDF, DOCX or TXT. The system will parse and extract skills + experience.
+        - generic [ref=e346]:
+          - generic [ref=e347]:
+            - text: Full name
+            - textbox "Full name" [active] [ref=e348]
+          - generic [ref=e349]:
+            - text: Email
+            - textbox "Email" [ref=e350]: Maria Garciamaria.ui@example.com
+          - generic [ref=e351]:
+            - text: Phone
+            - textbox "Phone" [ref=e352]
+        - generic [ref=e353]:
+          - text: Resume file
+          - button "Resume file" [ref=e354]
+        - button "Upload & Parse" [ref=e355] [cursor=pointer]
+      - generic [ref=e356]:
+        - generic [ref=e357]:
+          - heading "All Candidates" [level=3] [ref=e358]
+          - generic [ref=e359]:
+            - generic [ref=e360]: "Apply selected candidate to:"
+            - combobox [ref=e361]:
+              - option "— pick job —" [selected]
+              - option "Data Scientist"
+              - option "Frontend Developer"
+              - option "Senior Backend Engineer"
+        - table [ref=e362]:
+          - rowgroup [ref=e363]:
+            - row [ref=e364]:
+              - columnheader "Name" [ref=e365]
+              - columnheader "Email" [ref=e366]
+              - columnheader "Skills" [ref=e367]
+              - columnheader "Exp" [ref=e368]
+              - columnheader [ref=e369]
+          - rowgroup [ref=e370]:
+            - row [ref=e371]:
+              - cell "Priya Patel" [ref=e372]
+              - cell "priya.patel@example.com" [ref=e373]
+              - cell "machine learning python nlp tensorflow pytorch pandas +2 more" [ref=e374]:
+                - generic [ref=e375]: machine learning
+                - generic [ref=e376]: python
+                - generic [ref=e377]: nlp
+                - generic [ref=e378]: tensorflow
+                - generic [ref=e379]: pytorch
+                - generic [ref=e380]: pandas
+                - generic [ref=e381]: +2 more
+              - cell "4 yrs" [ref=e382]
+              - cell [ref=e383]:
+                - button "Apply" [disabled] [ref=e384] [cursor=pointer]
+            - row [ref=e385]:
+              - cell "Alex Park" [ref=e386]
+              - cell "alex.park@example.com" [ref=e387]
+              - cell "python html css git" [ref=e388]:
+                - generic [ref=e389]: python
+                - generic [ref=e390]: html
+                - generic [ref=e391]: css
+                - generic [ref=e392]: git
+              - cell "1 yrs" [ref=e393]
+              - cell [ref=e394]:
+                - button "Apply" [disabled] [ref=e395] [cursor=pointer]
+            - row [ref=e396]:
+              - cell "Carlos Ruiz" [ref=e397]
+              - cell "carlos.ruiz@example.com" [ref=e398]
+              - cell "vue.js python html css vue flask +3 more" [ref=e399]:
+                - generic [ref=e400]: vue.js
+                - generic [ref=e401]: python
+                - generic [ref=e402]: html
+                - generic [ref=e403]: css
+                - generic [ref=e404]: vue
+                - generic [ref=e405]: flask
+                - generic [ref=e406]: +3 more
+              - cell "0 yrs" [ref=e407]
+              - cell [ref=e408]:
+                - button "Apply" [disabled] [ref=e409] [cursor=pointer]
+            - row [ref=e410]:
+              - cell "Jane Smith" [ref=e411]
+              - cell "jane.smith@example.com" [ref=e412]
+              - cell "machine learning rest api python typescript react fastapi +5 more" [ref=e413]:
+                - generic [ref=e414]: machine learning
+                - generic [ref=e415]: rest api
+                - generic [ref=e416]: python
+                - generic [ref=e417]: typescript
+                - generic [ref=e418]: react
+                - generic [ref=e419]: fastapi
+                - generic [ref=e420]: +5 more
+              - cell "6 yrs" [ref=e421]
+              - cell [ref=e422]:
+                - button "Apply" [disabled] [ref=e423] [cursor=pointer]

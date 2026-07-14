@@ -1,0 +1,15 @@
+
+Carlos Ruiz
+Mid-level Developer
+carlos.ruiz@example.com  |  Madrid, Spain
+
+EXPERIENCE
+Software Developer, BetaSoft                              2021 - Present  (3 years)
+- Built internal tools with Python and Flask.
+- Worked with MySQL and Redis.
+
+Junior Developer, StartupX                                2019 - 2021  (2 years)
+- Front-end work in Vue.js and HTML/CSS.
+
+SKILLS
+Python, Flask, MySQL, Redis, Vue.js, HTML, CSS, Git, Linux.

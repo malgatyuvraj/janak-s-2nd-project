@@ -1,0 +1,10 @@
+
+Alex Park
+Junior Developer
+alex.park@example.com  |  Seoul, Korea
+
+EDUCATION
+B.S. Information Systems, Korea University                 2020 - 2024
+
+SKILLS
+Python, HTML, CSS, Git, React (academic projects).

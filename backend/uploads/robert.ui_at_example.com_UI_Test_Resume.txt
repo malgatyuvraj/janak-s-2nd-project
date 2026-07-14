@@ -1,0 +1,18 @@
+Robert Chen
+Senior Software Engineer
+robert.chen@example.com  |  +1-555-4040  |  Austin, TX
+
+EXPERIENCE
+Staff Engineer, CloudCo                            2019 - Present  (6 years)
+- Designed distributed systems using Python, FastAPI, and PostgreSQL.
+- Migrated infrastructure to AWS with Docker and Kubernetes.
+- Built ML pipelines with TensorFlow and PyTorch.
+
+Software Engineer, StartupHub                      2015 - 2019  (4 years)
+- Backend services in Django and Node.js.
+- React and TypeScript front-ends.
+
+SKILLS
+Python, FastAPI, Django, PostgreSQL, MongoDB, Redis, Docker,
+Kubernetes, AWS, GCP, React, TypeScript, Node.js, TensorFlow,
+PyTorch, Git, REST API, GraphQL, Microservices, CI/CD.
